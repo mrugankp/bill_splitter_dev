@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "440284513639",
+      "firebase_url": "https://billsplit-c1e01-default-rtdb.firebaseio.com",
+      "project_id": "billsplit-c1e01",
+      "storage_bucket": "billsplit-c1e01.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:440284513639:android:2f9c87693fdd37f8bb9bc2",
+          "android_client_info": {
+            "package_name": "com.bill_split"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBevvRl39i-feT51Ak3Bb3bkGf79hapGLg"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
